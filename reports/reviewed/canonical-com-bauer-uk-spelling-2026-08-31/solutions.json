@@ -295,11 +295,11 @@
         "change": {
           "type": "replace",
           "original_text": "Utilise",
-          "new_text": "utilize (or better: use)"
+          "new_text": "Utilize"
         },
         "verification": {
           "text_before_change": "Utilise MicroCloud's scalable architecture to grow your network cap",
-          "text_after_change": "utilize (or better: use) MicroCloud's scalable architecture to grow your network cap"
+          "text_after_change": "Utilize MicroCloud's scalable architecture to grow your network cap"
         },
         "location": {
           "section": "Body",

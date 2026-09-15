@@ -33,11 +33,11 @@
         "change": {
           "type": "replace",
           "original_text": "Minimise",
-          "new_text": "minimize"
+          "new_text": "Minimize"
         },
         "verification": {
           "text_before_change": "Service delivery with security in mind. Minimise risks. Canonical managed services are routinely audited for",
-          "text_after_change": "Service delivery with security in mind. minimize risks. Canonical managed services are routinely audited for"
+          "text_after_change": "Service delivery with security in mind. Minimize risks. Canonical managed services are routinely audited for"
         },
         "location": {
           "section": "Body",
@@ -339,11 +339,11 @@
         "change": {
           "type": "replace",
           "original_text": "Specialised",
-          "new_text": "specialize"
+          "new_text": "Specialize"
         },
         "verification": {
           "text_before_change": "Specialised Canonical engineers deploy a database sustainably and effic",
-          "text_after_change": "specialize Canonical engineers deploy a database sustainably and effic"
+          "text_after_change": "Specialize Canonical engineers deploy a database sustainably and effic"
         },
         "location": {
           "section": "Body",
@@ -361,11 +361,11 @@
         "change": {
           "type": "replace",
           "original_text": "Minimise",
-          "new_text": "minimize"
+          "new_text": "Minimize"
         },
         "verification": {
           "text_before_change": "Minimise risks. Canonical managed services are routinely audited for",
-          "text_after_change": "minimize risks. Canonical managed services are routinely audited for"
+          "text_after_change": "Minimize risks. Canonical managed services are routinely audited for"
         },
         "location": {
           "section": "Body",
@@ -650,11 +650,11 @@
         "change": {
           "type": "replace",
           "original_text": "Specialised",
-          "new_text": "specialize"
+          "new_text": "Specialize"
         },
         "verification": {
           "text_before_change": "Specialised Canonical engineers deploy a database sustainably and effic",
-          "text_after_change": "specialize Canonical engineers deploy a database sustainably and effic"
+          "text_after_change": "Specialize Canonical engineers deploy a database sustainably and effic"
         },
         "location": {
           "section": "Body",
@@ -672,11 +672,11 @@
         "change": {
           "type": "replace",
           "original_text": "Minimise",
-          "new_text": "minimize"
+          "new_text": "Minimize"
         },
         "verification": {
           "text_before_change": "Minimise risks. Canonical managed services are routinely audited for",
-          "text_after_change": "minimize risks. Canonical managed services are routinely audited for"
+          "text_after_change": "Minimize risks. Canonical managed services are routinely audited for"
         },
         "location": {
           "section": "Body",
@@ -1071,11 +1071,11 @@
         "change": {
           "type": "replace",
           "original_text": "Optimised",
-          "new_text": "optimize"
+          "new_text": "Optimize"
         },
         "verification": {
           "text_before_change": "Optimised for small footprint",
-          "text_after_change": "optimize for small footprint"
+          "text_after_change": "Optimize for small footprint"
         },
         "location": {
           "section": "Body",
