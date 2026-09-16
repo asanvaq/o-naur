@@ -60,11 +60,11 @@
         "change": {
           "type": "replace",
           "original_text": "containerised",
-          "new_text": "containerize"
+          "new_text": "containerized"
         },
         "verification": {
           "text_before_change": "approximately 200K containerised workloads in a seven-day timeframe,",
-          "text_after_change": "approximately 200K containerize workloads in a seven-day timeframe,"
+          "text_after_change": "approximately 200K containerized workloads in a seven-day timeframe,"
         },
         "location": {
           "section": "Body",

@@ -11,11 +11,11 @@
         "change": {
           "type": "replace",
           "original_text": "optimised",
-          "new_text": "optimize"
+          "new_text": "optimized"
         },
         "verification": {
           "text_before_change": "Edge-optimised OS, Kubernetes, compute and data processing",
-          "text_after_change": "Edge-optimize OS, Kubernetes, compute and data processing"
+          "text_after_change": "Edge-optimized OS, Kubernetes, compute and data processing"
         },
         "location": {
           "section": "Body",
@@ -33,11 +33,11 @@
         "change": {
           "type": "replace",
           "original_text": "optimised",
-          "new_text": "optimize"
+          "new_text": "optimized"
         },
         "verification": {
           "text_before_change": "## Solve edge AI complexity with an integrated and optimised stack",
-          "text_after_change": "## Solve edge AI complexity with an integrated and optimize stack"
+          "text_after_change": "## Solve edge AI complexity with an integrated and optimized stack"
         },
         "location": {
           "section": "Body",
@@ -55,11 +55,11 @@
         "change": {
           "type": "replace",
           "original_text": "optimised",
-          "new_text": "optimize"
+          "new_text": "optimized"
         },
         "verification": {
           "text_before_change": "buted data processing, Canonical delivers an integrated and optimised stack purpose-built to address the specific needs of edge A",
-          "text_after_change": "buted data processing, Canonical delivers an integrated and optimize stack purpose-built to address the specific needs of edge A"
+          "text_after_change": "buted data processing, Canonical delivers an integrated and optimized stack purpose-built to address the specific needs of edge A"
         },
         "location": {
           "section": "Body",
@@ -77,11 +77,11 @@
         "change": {
           "type": "replace",
           "original_text": "optimised",
-          "new_text": "optimize"
+          "new_text": "optimized"
         },
         "verification": {
           "text_before_change": "LOps, compute, data processing and certified hardware \u2013 all optimised for the edge.",
-          "text_after_change": "LOps, compute, data processing and certified hardware \u2013 all optimize for the edge."
+          "text_after_change": "LOps, compute, data processing and certified hardware \u2013 all optimized for the edge."
         },
         "location": {
           "section": "Body",
@@ -121,11 +121,11 @@
         "change": {
           "type": "replace",
           "original_text": "optimised",
-          "new_text": "optimize"
+          "new_text": "optimized"
         },
         "verification": {
           "text_before_change": "## Ubuntu Core: the edge-optimised OS",
-          "text_after_change": "## Ubuntu Core: the edge-optimize OS"
+          "text_after_change": "## Ubuntu Core: the edge-optimized OS"
         },
         "location": {
           "section": "Body",
@@ -143,11 +143,11 @@
         "change": {
           "type": "replace",
           "original_text": "optimised",
-          "new_text": "optimize"
+          "new_text": "optimized"
         },
         "verification": {
           "text_before_change": "\u2013 containerised software packages \u2013 and optimised for edge performance, security and reliable updates.",
-          "text_after_change": "\u2013 containerised software packages \u2013 and optimize for edge performance, security and reliable updates."
+          "text_after_change": "\u2013 containerised software packages \u2013 and optimized for edge performance, security and reliable updates."
         },
         "location": {
           "section": "Body",
@@ -165,11 +165,11 @@
         "change": {
           "type": "replace",
           "original_text": "containerised",
-          "new_text": "containerize"
+          "new_text": "containerized"
         },
         "verification": {
           "text_before_change": "\u2013 containerised software packages \u2013 and optimised for edge performance, sec",
-          "text_after_change": "\u2013 containerize software packages \u2013 and optimised for edge performance, sec"
+          "text_after_change": "\u2013 containerized software packages \u2013 and optimised for edge performance, sec"
         },
         "location": {
           "section": "Body",
@@ -187,11 +187,11 @@
         "change": {
           "type": "replace",
           "original_text": "centralised",
-          "new_text": "centralize"
+          "new_text": "centralized"
         },
         "verification": {
           "text_before_change": "e, you can create your own Dedicated Snap Store: a private, centralised platform for publishing and distributing software to your d",
-          "text_after_change": "e, you can create your own Dedicated Snap Store: a private, centralize platform for publishing and distributing software to your d"
+          "text_after_change": "e, you can create your own Dedicated Snap Store: a private, centralized platform for publishing and distributing software to your d"
         },
         "location": {
           "section": "Body",
@@ -241,11 +241,11 @@
         "change": {
           "type": "replace",
           "original_text": "minimised",
-          "new_text": "minimize"
+          "new_text": "minimized"
         },
         "verification": {
           "text_before_change": "ng more advanced power management to ensure energy waste is minimised. It\u2019s even more true with the electrification trend.",
-          "text_after_change": "ng more advanced power management to ensure energy waste is minimize. It\u2019s even more true with the electrification trend."
+          "text_after_change": "ng more advanced power management to ensure energy waste is minimized. It\u2019s even more true with the electrification trend."
         },
         "location": {
           "section": "Body",
@@ -268,11 +268,11 @@
         "change": {
           "type": "replace",
           "original_text": "authorised",
-          "new_text": "authorize"
+          "new_text": "authorized"
         },
         "verification": {
           "text_before_change": "LaunchDarkly becomes the first FedRAMP-authorised feature management platform thanks to Ubuntu Pro",
-          "text_after_change": "LaunchDarkly becomes the first FedRAMP-authorize feature management platform thanks to Ubuntu Pro"
+          "text_after_change": "LaunchDarkly becomes the first FedRAMP-authorized feature management platform thanks to Ubuntu Pro"
         },
         "location": {
           "section": "Body",
@@ -322,11 +322,11 @@
         "change": {
           "type": "replace",
           "original_text": "data centres",
-          "new_text": "data center"
+          "new_text": "data centers"
         },
         "verification": {
           "text_before_change": "resources efficiently across public and private clouds, and data centres. Scale as and when you need with competitive, per-node pric",
-          "text_after_change": "resources efficiently across public and private clouds, and data center. Scale as and when you need with competitive, per-node pric"
+          "text_after_change": "resources efficiently across public and private clouds, and data centers. Scale as and when you need with competitive, per-node pric"
         },
         "location": {
           "section": "Body",

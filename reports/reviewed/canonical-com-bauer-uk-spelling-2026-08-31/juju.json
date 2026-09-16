@@ -33,11 +33,11 @@
         "change": {
           "type": "replace",
           "original_text": "centralised",
-          "new_text": "centralize"
+          "new_text": "centralized"
         },
         "verification": {
           "text_before_change": "JAAS (Juju as a service) is your centralised enterprise control plane for Juju deployments.",
-          "text_after_change": "JAAS (Juju as a service) is your centralize enterprise control plane for Juju deployments."
+          "text_after_change": "JAAS (Juju as a service) is your centralized enterprise control plane for Juju deployments."
         },
         "location": {
           "section": "Body",
@@ -60,11 +60,11 @@
         "change": {
           "type": "replace",
           "original_text": "centralised",
-          "new_text": "centralize"
+          "new_text": "centralized"
         },
         "verification": {
           "text_before_change": "e your deployment. You can manage everything from a single, centralised Juju controller, or you can have multiple controllers insta",
-          "text_after_change": "e your deployment. You can manage everything from a single, centralize Juju controller, or you can have multiple controllers insta"
+          "text_after_change": "e your deployment. You can manage everything from a single, centralized Juju controller, or you can have multiple controllers insta"
         },
         "location": {
           "section": "Body",

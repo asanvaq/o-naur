@@ -33,11 +33,11 @@
         "change": {
           "type": "replace",
           "original_text": "optimised",
-          "new_text": "optimize"
+          "new_text": "optimized"
         },
         "verification": {
           "text_before_change": "your Kubernetes workloads will be able to run on containers optimised for AI/ML workloads or High Performance computing (HPC) tas",
-          "text_after_change": "your Kubernetes workloads will be able to run on containers optimize for AI/ML workloads or High Performance computing (HPC) tas"
+          "text_after_change": "your Kubernetes workloads will be able to run on containers optimized for AI/ML workloads or High Performance computing (HPC) tas"
         },
         "location": {
           "section": "Body",

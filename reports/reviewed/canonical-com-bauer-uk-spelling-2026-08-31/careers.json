@@ -104,11 +104,11 @@
         "change": {
           "type": "replace",
           "original_text": "data centres",
-          "new_text": "data center"
+          "new_text": "data centers"
         },
         "verification": {
           "text_before_change": "our products from the kernel to Ubuntu Desktop, devices and data centres, liaising with our strategic partners.",
-          "text_after_change": "our products from the kernel to Ubuntu Desktop, devices and data center, liaising with our strategic partners."
+          "text_after_change": "our products from the kernel to Ubuntu Desktop, devices and data centers, liaising with our strategic partners."
         },
         "location": {
           "section": "Body",
@@ -153,11 +153,11 @@
         "change": {
           "type": "replace",
           "original_text": "minimises",
-          "new_text": "minimize"
+          "new_text": "minimizes"
         },
         "verification": {
           "text_before_change": "upport complex deals in a way that protects all parties and minimises friction.",
-          "text_after_change": "upport complex deals in a way that protects all parties and minimize friction."
+          "text_after_change": "upport complex deals in a way that protects all parties and minimizes friction."
         },
         "location": {
           "section": "Body",
@@ -202,11 +202,11 @@
         "change": {
           "type": "replace",
           "original_text": "organised",
-          "new_text": "organize"
+          "new_text": "organized"
         },
         "verification": {
           "text_before_change": "You are organised, persistent, friendly and hard-working. You are effective i",
-          "text_after_change": "You are organize, persistent, friendly and hard-working. You are effective i"
+          "text_after_change": "You are organized, persistent, friendly and hard-working. You are effective i"
         },
         "location": {
           "section": "Body",

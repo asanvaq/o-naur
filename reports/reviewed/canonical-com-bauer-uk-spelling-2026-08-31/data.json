@@ -153,11 +153,11 @@
         "change": {
           "type": "replace",
           "original_text": "minimised",
-          "new_text": "minimize"
+          "new_text": "minimized"
         },
         "verification": {
           "text_before_change": "of your event data across the cluster, so that data loss is minimised when a server goes offline.",
-          "text_after_change": "of your event data across the cluster, so that data loss is minimize when a server goes offline."
+          "text_after_change": "of your event data across the cluster, so that data loss is minimized when a server goes offline."
         },
         "location": {
           "section": "Body",
@@ -246,11 +246,11 @@
         "change": {
           "type": "replace",
           "original_text": "optimised",
-          "new_text": "optimize"
+          "new_text": "optimized"
         },
         "verification": {
           "text_before_change": "nefit of running on top of an operating system image that's optimised for every cloud. Run your MongoDB on Azure, GCP, AWS, on Ku",
-          "text_after_change": "nefit of running on top of an operating system image that's optimize for every cloud. Run your MongoDB on Azure, GCP, AWS, on Ku"
+          "text_after_change": "nefit of running on top of an operating system image that's optimized for every cloud. Run your MongoDB on Azure, GCP, AWS, on Ku"
         },
         "location": {
           "section": "Body",
@@ -339,11 +339,11 @@
         "change": {
           "type": "replace",
           "original_text": "Specialised",
-          "new_text": "Specialize"
+          "new_text": "Specialized"
         },
         "verification": {
           "text_before_change": "Specialised Canonical engineers deploy a database sustainably and effic",
-          "text_after_change": "Specialize Canonical engineers deploy a database sustainably and effic"
+          "text_after_change": "Specialized Canonical engineers deploy a database sustainably and effic"
         },
         "location": {
           "section": "Body",
@@ -552,11 +552,11 @@
         "change": {
           "type": "replace",
           "original_text": "optimised",
-          "new_text": "optimize"
+          "new_text": "optimized"
         },
         "verification": {
           "text_before_change": "When you use Canonical's MySQL, you benefit from optimised configurations for every cloud. You can run MySQL on Azure,",
-          "text_after_change": "When you use Canonical's MySQL, you benefit from optimize configurations for every cloud. You can run MySQL on Azure,"
+          "text_after_change": "When you use Canonical's MySQL, you benefit from optimized configurations for every cloud. You can run MySQL on Azure,"
         },
         "location": {
           "section": "Body",
@@ -650,11 +650,11 @@
         "change": {
           "type": "replace",
           "original_text": "Specialised",
-          "new_text": "Specialize"
+          "new_text": "Specialized"
         },
         "verification": {
           "text_before_change": "Specialised Canonical engineers deploy a database sustainably and effic",
-          "text_after_change": "Specialize Canonical engineers deploy a database sustainably and effic"
+          "text_after_change": "Specialized Canonical engineers deploy a database sustainably and effic"
         },
         "location": {
           "section": "Body",
@@ -951,11 +951,11 @@
         "change": {
           "type": "replace",
           "original_text": "optimised",
-          "new_text": "optimize"
+          "new_text": "optimized"
         },
         "verification": {
           "text_before_change": "When you use Canonical's PostgreSQL, you benefit from optimised configurations for every cloud. You can run PostgreSQL on A",
-          "text_after_change": "When you use Canonical's PostgreSQL, you benefit from optimize configurations for every cloud. You can run PostgreSQL on A"
+          "text_after_change": "When you use Canonical's PostgreSQL, you benefit from optimized configurations for every cloud. You can run PostgreSQL on A"
         },
         "location": {
           "section": "Body",
@@ -1071,11 +1071,11 @@
         "change": {
           "type": "replace",
           "original_text": "Optimised",
-          "new_text": "Optimize"
+          "new_text": "Optimized"
         },
         "verification": {
           "text_before_change": "Optimised for small footprint",
-          "text_after_change": "Optimize for small footprint"
+          "text_after_change": "Optimized for small footprint"
         },
         "location": {
           "section": "Body",
@@ -1142,11 +1142,11 @@
         "change": {
           "type": "replace",
           "original_text": "optimised",
-          "new_text": "optimize"
+          "new_text": "optimized"
         },
         "verification": {
           "text_before_change": "Moreover, most RDBMS are optimised for disk access and can scale well to TBs of data per singl",
-          "text_after_change": "Moreover, most RDBMS are optimize for disk access and can scale well to TBs of data per singl"
+          "text_after_change": "Moreover, most RDBMS are optimized for disk access and can scale well to TBs of data per singl"
         },
         "location": {
           "section": "Body",
@@ -1164,11 +1164,11 @@
         "change": {
           "type": "replace",
           "original_text": "optimised",
-          "new_text": "optimize"
+          "new_text": "optimized"
         },
         "verification": {
           "text_before_change": "e. Most popular RDBMS\u2019 engines are capable of generating an optimised",
-          "text_after_change": "e. Most popular RDBMS\u2019 engines are capable of generating an optimize"
+          "text_after_change": "e. Most popular RDBMS\u2019 engines are capable of generating an optimized"
         },
         "location": {
           "section": "Body",
@@ -1208,11 +1208,11 @@
         "change": {
           "type": "replace",
           "original_text": "specialised",
-          "new_text": "specialize"
+          "new_text": "specialized"
         },
         "verification": {
           "text_before_change": "There are undeniable benefits to using the best specialised database for every use case you need to",
-          "text_after_change": "There are undeniable benefits to using the best specialize database for every use case you need to"
+          "text_after_change": "There are undeniable benefits to using the best specialized database for every use case you need to"
         },
         "location": {
           "section": "Body",
@@ -1230,11 +1230,11 @@
         "change": {
           "type": "replace",
           "original_text": "specialised",
-          "new_text": "specialize"
+          "new_text": "specialized"
         },
         "verification": {
           "text_before_change": "more specialised database.",
-          "text_after_change": "more specialize database."
+          "text_after_change": "more specialized database."
         },
         "location": {
           "section": "Body",
@@ -1252,11 +1252,11 @@
         "change": {
           "type": "replace",
           "original_text": "specialised",
-          "new_text": "specialize"
+          "new_text": "specialized"
         },
         "verification": {
           "text_before_change": "Rise of specialised relational databases: SQLite (embedded) and GreenPlum (anal",
-          "text_after_change": "Rise of specialize relational databases: SQLite (embedded) and GreenPlum (anal"
+          "text_after_change": "Rise of specialized relational databases: SQLite (embedded) and GreenPlum (anal"
         },
         "location": {
           "section": "Body",
@@ -1274,11 +1274,11 @@
         "change": {
           "type": "replace",
           "original_text": "optimised",
-          "new_text": "optimize"
+          "new_text": "optimized"
         },
         "verification": {
           "text_before_change": "Jointly with Microsoft, we maintain and support optimised images for SQL Server on Ubuntu.",
-          "text_after_change": "Jointly with Microsoft, we maintain and support optimize images for SQL Server on Ubuntu."
+          "text_after_change": "Jointly with Microsoft, we maintain and support optimized images for SQL Server on Ubuntu."
         },
         "location": {
           "section": "Body",
@@ -1421,11 +1421,11 @@
         "change": {
           "type": "replace",
           "original_text": "optimised",
-          "new_text": "optimize"
+          "new_text": "optimized"
         },
         "verification": {
           "text_before_change": "Data warehouses are typically optimised for OLAP workloads, aiming at enabling rapid analysis of la",
-          "text_after_change": "Data warehouses are typically optimize for OLAP workloads, aiming at enabling rapid analysis of la"
+          "text_after_change": "Data warehouses are typically optimized for OLAP workloads, aiming at enabling rapid analysis of la"
         },
         "location": {
           "section": "Body",

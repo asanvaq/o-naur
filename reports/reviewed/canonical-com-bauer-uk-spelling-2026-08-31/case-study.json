@@ -33,11 +33,11 @@
         "change": {
           "type": "replace",
           "original_text": "data centres",
-          "new_text": "data center"
+          "new_text": "data centers"
         },
         "verification": {
           "text_before_change": "ubernetes, Ceph, PostgreSQL, and Kafka distributions across data centres located at ESA\u2019s European Space Operations Centre in Darmst",
-          "text_after_change": "ubernetes, Ceph, PostgreSQL, and Kafka distributions across data center located at ESA\u2019s European Space Operations Centre in Darmst"
+          "text_after_change": "ubernetes, Ceph, PostgreSQL, and Kafka distributions across data centers located at ESA\u2019s European Space Operations Centre in Darmst"
         },
         "location": {
           "section": "Body",
@@ -77,11 +77,11 @@
         "change": {
           "type": "replace",
           "original_text": "containerised",
-          "new_text": "containerize"
+          "new_text": "containerized"
         },
         "verification": {
           "text_before_change": "etes) is an open source system to deploy, scale, and manage containerised applications anywhere. Ceph is an open source storage solut",
-          "text_after_change": "etes) is an open source system to deploy, scale, and manage containerize applications anywhere. Ceph is an open source storage solut"
+          "text_after_change": "etes) is an open source system to deploy, scale, and manage containerized applications anywhere. Ceph is an open source storage solut"
         },
         "location": {
           "section": "Body",
@@ -99,11 +99,11 @@
         "change": {
           "type": "replace",
           "original_text": "specialised",
-          "new_text": "specialize"
+          "new_text": "specialized"
         },
         "verification": {
           "text_before_change": " requirements, while keeping costs low without the need for specialised storage hardware.",
-          "text_after_change": " requirements, while keeping costs low without the need for specialize storage hardware."
+          "text_after_change": " requirements, while keeping costs low without the need for specialized storage hardware."
         },
         "location": {
           "section": "Body",
@@ -121,11 +121,11 @@
         "change": {
           "type": "replace",
           "original_text": "specialised",
-          "new_text": "specialize"
+          "new_text": "specialized"
         },
         "verification": {
           "text_before_change": " requirements, while keeping costs low without the need for specialised storage hardware.",
-          "text_after_change": " requirements, while keeping costs low without the need for specialize storage hardware."
+          "text_after_change": " requirements, while keeping costs low without the need for specialized storage hardware."
         },
         "location": {
           "section": "Body",
@@ -148,11 +148,11 @@
         "change": {
           "type": "replace",
           "original_text": "specialises",
-          "new_text": "specialize"
+          "new_text": "specializes"
         },
         "verification": {
           "text_before_change": "Grundium is a medical device manufacturer that specialises in digital microscopy. Their range of microscope scanners a",
-          "text_after_change": "Grundium is a medical device manufacturer that specialize in digital microscopy. Their range of microscope scanners a"
+          "text_after_change": "Grundium is a medical device manufacturer that specializes in digital microscopy. Their range of microscope scanners a"
         },
         "location": {
           "section": "Body",
@@ -170,11 +170,11 @@
         "change": {
           "type": "replace",
           "original_text": "optimised",
-          "new_text": "optimize"
+          "new_text": "optimized"
         },
         "verification": {
           "text_before_change": "ugh Canonical\u2019s partnership with NVIDIA, Ubuntu was already optimised and certified for this card, leading Grundium to take on NV",
-          "text_after_change": "ugh Canonical\u2019s partnership with NVIDIA, Ubuntu was already optimize and certified for this card, leading Grundium to take on NV"
+          "text_after_change": "ugh Canonical\u2019s partnership with NVIDIA, Ubuntu was already optimized and certified for this card, leading Grundium to take on NV"
         },
         "location": {
           "section": "Body",

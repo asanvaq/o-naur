@@ -11,11 +11,11 @@
         "change": {
           "type": "replace",
           "original_text": "Optimised",
-          "new_text": "Optimize"
+          "new_text": "Optimized"
         },
         "verification": {
           "text_before_change": "### Optimised VM performance",
-          "text_after_change": "### Optimize VM performance"
+          "text_after_change": "### Optimized VM performance"
         },
         "location": {
           "section": "Body",
